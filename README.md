@@ -7,7 +7,7 @@ I dislike using stack acronyms, but I didn't come up with a better name for this
 - R - React
 - P - Prisma
 
-This is a branch with JWT auth. There is a branch with session-based auth
+This is the JWT auth branch. There is a branch with session-based auth
 
 # Usage
 
